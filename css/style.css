@@ -1,10 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+KR&display=swap');
 
-.ibm-plex-sans-kr-regular {
-  font-family: "IBM Plex Sans KR", sans-serif;
-  font-weight: 400;
-  font-style: normal;
-}
 
 html{ height: 100%; }
 
@@ -38,7 +33,7 @@ a{ text-decoration: none; }
 				box-shadow:0 0 10px rgba(0, 0, 0, .2);
 				font-weight: 700;
 				font-size: 18px;
-				font-family: 'Pretenard';
+				font-family: 'IBM Plex Sans KR';
 				transition: 0.5s; }
 
 #section1 button:hover{ background-color: black; color: #fff; }
